@@ -41,34 +41,6 @@ Security awareness messages are crucial for maintaining a security-conscious cul
 
 ### 4.3 Examples of Security Awareness Messages
 
-#### Email Campaign Example
-
-```
-Subject: 🎣 Don't Take the Bait: Phishing Awareness Week
-
-Dear [Employee Name],
-
-This week, we're focusing on recognizing and reporting phishing attempts.
-
-🚩 Red Flags to Watch For:
-   • Urgent action required
-   • Unexpected attachments
-   • Requests for sensitive information
-   • Mismatched or suspicious URLs
-
-🔍 Before clicking any links, hover over them to verify 
-   the true destination.
-
-🏆 Challenge: Take our phishing quiz and test your skills!
-   [Link to Quiz]
-
-Stay vigilant and report any suspicious emails to 
-security@company.com.
-
-Stay secure!
-[Company] Security Team
-```
-
 #### Digital Signage Example
 
 ```
